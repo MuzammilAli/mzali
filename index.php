@@ -116,7 +116,7 @@ box-shadow: 0 0 1px rgba(0,0,0, .75);
  
 <div style='width:800px;margin:auto'>
 <form>
-<H2> Calculator in PHP </h2>
+<H2> Calculator  </h2>
 <div class="row"><label> FIRST VALUE 
 <input type="text" id="first" name="first" placeholder="enter first value"
  value="<?php echo $first; ?>" autofocus required size=10></label></div><br>
