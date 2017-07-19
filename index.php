@@ -52,7 +52,7 @@ if ($op == 'divide') {
    }
 ?>
 
-<title>Calculator in PHP</title>
+<title>Calculator </title>
 </head>
 <style>
 body {
